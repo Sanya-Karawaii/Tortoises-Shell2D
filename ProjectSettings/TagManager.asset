@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - TriggerFieldToScene2
+  - TriggerFieldToScene3
+  - TriggerFieldToScene4
+  - TriggerFieldToScene5
   layers:
   - Default
   - TransparentFX
