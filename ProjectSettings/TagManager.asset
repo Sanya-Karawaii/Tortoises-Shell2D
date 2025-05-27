@@ -8,6 +8,8 @@ TagManager:
   - TriggerFieldToScene3
   - TriggerFieldToScene4
   - TriggerFieldToScene5
+  - InvestigationBoard
+  - TriggerFieldBackToScene1
   layers:
   - Default
   - TransparentFX
