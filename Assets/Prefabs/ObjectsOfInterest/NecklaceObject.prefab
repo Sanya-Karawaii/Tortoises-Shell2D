@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 4057228602731289677}
   - component: {fileID: 4057228602731289676}
   - component: {fileID: 4057228602731289672}
-  - component: {fileID: 4057228602731289679}
   - component: {fileID: -3150326213148986217}
   m_Layer: 5
   m_Name: NecklaceObject
@@ -138,21 +137,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
---- !u!114 &4057228602731289679
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4057228602731289682}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"ClueCollectionScript","summary":null,"pan":{"x":812.3195,"y":-116.8366},"zoom":0.1,"elements":[],"$version":"A"}}}'
     _objectReferences: []
 --- !u!114 &-3150326213148986217
 MonoBehaviour:
