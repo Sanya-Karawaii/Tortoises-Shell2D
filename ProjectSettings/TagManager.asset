@@ -15,6 +15,7 @@ TagManager:
   - TriggerFieldBackToScene4
   - TFToLobbyClueScene1
   - TFToLivingRoomClueScene2
+  - Bed-Couch
   layers:
   - Default
   - TransparentFX
