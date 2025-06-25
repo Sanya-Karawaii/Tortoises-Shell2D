@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2956673849438497821}
   - component: {fileID: 1971089313449084521}
   m_Layer: 5
-  m_Name: Clue2Button
+  m_Name: Clue4Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ff087007a6d637a4cb3198349fb9b1a4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ae5a02dcd6c73ea48b7b25b5e705ff9d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

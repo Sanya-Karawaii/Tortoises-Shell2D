@@ -17,6 +17,8 @@ TagManager:
   - TFToLivingRoomClueScene2
   - Bed-Couch
   - MrToad
+  - TFToLobbyClueScene2
+  - TFToLobbyClueScene3
   layers:
   - Default
   - TransparentFX
