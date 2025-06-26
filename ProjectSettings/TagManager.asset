@@ -19,6 +19,9 @@ TagManager:
   - MrToad
   - TFToLobbyClueScene2
   - TFToLobbyClueScene3
+  - TFToLobbyClueScene4
+  - TFToLivingRoomClueScene3
+  - TFToLivingRoomClueScene4
   layers:
   - Default
   - TransparentFX

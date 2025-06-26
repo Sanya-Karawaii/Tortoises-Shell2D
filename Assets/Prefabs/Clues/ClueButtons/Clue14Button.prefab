@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2956673849438497821}
   - component: {fileID: 1971089313449084521}
   m_Layer: 5
-  m_Name: Clue6Button
+  m_Name: Clue14Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 518f3229a064f7d41a7ba2aff55c78f6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f042ccdaff6377148b924858b4d355c4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -214,4 +214,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u043B\u0438\u043A\u0430 6"
+  m_Text: "\u0423\u043B\u0438\u043A\u0430 14"
