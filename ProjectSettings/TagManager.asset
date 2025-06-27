@@ -21,7 +21,11 @@ TagManager:
   - TFToLobbyClueScene3
   - TFToLobbyClueScene4
   - TFToLivingRoomClueScene3
+  - Undefined
   - TFToLivingRoomClueScene4
+  - TFToKitchenClueScene1
+  - TFToKitchenClueScene2
+  - TFToKitchenClueScene3
   layers:
   - Default
   - TransparentFX
