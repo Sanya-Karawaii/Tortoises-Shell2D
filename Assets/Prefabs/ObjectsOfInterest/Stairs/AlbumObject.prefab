@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1025945348523881785}
   - component: {fileID: 966126267075528164}
   m_Layer: 5
-  m_Name: MrsToadsClothesSizeObject
+  m_Name: AlbumObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31,7 +31,7 @@ RectTransform:
   m_GameObject: {fileID: 1354898449571124528}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.18125, y: 0.16916175, z: 1}
+  m_LocalScale: {x: 0.960952, y: 0.5099766, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -70,7 +70,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 21300000, guid: 829ef02ed50fcf44e9e8961c8802a0ce, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -164,5 +164,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"ButtonScript","summary":null,"pan":{"x":-286.0,"y":-15.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-332.0,"y":-233.0},"guid":"571f8b1e-e52d-4265-a9ca-0377f1dcc295","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"defaultValues":{},"position":{"x":50.0,"y":-122.0},"guid":"7da519ad-2583-499e-923d-b5d4c90dcd68","$version":"A","$type":"Unity.VisualScripting.If","$id":"12"},{"numeric":false,"defaultValues":{},"position":{"x":-132.0,"y":-53.0},"guid":"bdf0a006-6f49-4bb6-a247-4f5dd780c292","$version":"A","$type":"Unity.VisualScripting.Equal","$id":"14"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-303.0,"y":68.0},"guid":"7c979775-0a76-4bae-aa28-3a02421817f3","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"16"},{"chainable":false,"member":{"name":"interactable","parameterTypes":null,"targetType":"UnityEngine.UI.Button","targetTypeName":"UnityEngine.UI.Button","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":234.0,"y":-125.0},"guid":"4766bdb4-6a36-4e7a-a8e4-1a4912a74793","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"18"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"IsMrsToadsClothesSizeClueCollected","$type":"System.String"}},"position":{"x":-536.0,"y":-81.0},"guid":"f314afdf-576c-459c-a717-c8756bd5d37e","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"21"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"f099d78f-badf-4b56-93a6-40ab91aacec1","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"ifTrue","destinationUnit":{"$ref":"18"},"destinationKey":"assign","guid":"5e7ff9f0-1635-4ef4-9252-68eb11703035","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"output","destinationUnit":{"$ref":"14"},"destinationKey":"b","guid":"07ce4aba-a33b-4112-91db-162be3c33dae","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"equal","destinationUnit":{"$ref":"12"},"destinationKey":"condition","guid":"7c6a31fd-42b5-4b11-9f6b-fd3ce2ba66b0","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"a","guid":"5d6f4441-d7ed-4591-97d1-02a9f02fac30","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"ButtonScript","summary":null,"pan":{"x":-203.0,"y":-20.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-332.0,"y":-233.0},"guid":"571f8b1e-e52d-4265-a9ca-0377f1dcc295","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"defaultValues":{},"position":{"x":50.0,"y":-122.0},"guid":"7da519ad-2583-499e-923d-b5d4c90dcd68","$version":"A","$type":"Unity.VisualScripting.If","$id":"12"},{"numeric":false,"defaultValues":{},"position":{"x":-132.0,"y":-53.0},"guid":"bdf0a006-6f49-4bb6-a247-4f5dd780c292","$version":"A","$type":"Unity.VisualScripting.Equal","$id":"14"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-303.0,"y":68.0},"guid":"7c979775-0a76-4bae-aa28-3a02421817f3","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"16"},{"chainable":false,"member":{"name":"interactable","parameterTypes":null,"targetType":"UnityEngine.UI.Button","targetTypeName":"UnityEngine.UI.Button","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":234.0,"y":-125.0},"guid":"4766bdb4-6a36-4e7a-a8e4-1a4912a74793","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"18"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"IsAlbumClueCollected","$type":"System.String"}},"position":{"x":-513.0,"y":-59.0},"guid":"5b554126-39fd-4d58-a992-63d2dedb91c9","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"21"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"f099d78f-badf-4b56-93a6-40ab91aacec1","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"ifTrue","destinationUnit":{"$ref":"18"},"destinationKey":"assign","guid":"5e7ff9f0-1635-4ef4-9252-68eb11703035","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"output","destinationUnit":{"$ref":"14"},"destinationKey":"b","guid":"07ce4aba-a33b-4112-91db-162be3c33dae","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"equal","destinationUnit":{"$ref":"12"},"destinationKey":"condition","guid":"7c6a31fd-42b5-4b11-9f6b-fd3ce2ba66b0","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"a","guid":"bd5d8e47-85f8-4ee2-b41f-4f35e7b91727","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
     _objectReferences: []

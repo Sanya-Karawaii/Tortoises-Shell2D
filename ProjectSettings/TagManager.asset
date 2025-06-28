@@ -26,6 +26,8 @@ TagManager:
   - TFToKitchenClueScene1
   - TFToKitchenClueScene2
   - TFToKitchenClueScene3
+  - TFToStairsClueScene1
+  - TFToBackDoorClueScene1
   layers:
   - Default
   - TransparentFX
