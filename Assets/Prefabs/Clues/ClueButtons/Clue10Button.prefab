@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b2a480625c48e274596a64f42834aadd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b887bd9d1d722644c816afde754931d9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 7516333601365856716}
   - component: {fileID: 5231156222618754544}
   m_Layer: 5
-  m_Name: Clue2ButtonText
+  m_Name: Clue10ButtonText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -207,11 +207,11 @@ MonoBehaviour:
     m_FontStyle: 3
     m_BestFit: 1
     m_MinSize: 10
-    m_MaxSize: 56
+    m_MaxSize: 30
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u043B\u0438\u043A\u0430 10"
+  m_Text: "\u0413\u0440\u044F\u0437\u043D\u044B\u0435 \u0431\u043E\u0442\u0438\u043D\u043A\u0438"

@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5d37918843eef2e40992c9bd1a5b56ef, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 23a1900da2882844794e262c0f35424d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 7516333601365856716}
   - component: {fileID: 5231156222618754544}
   m_Layer: 5
-  m_Name: Clue2ButtonText
+  m_Name: Clue32ButtonText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -214,4 +214,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0423\u043B\u0438\u043A\u0430 32"
+  m_Text: "\u041C\u0435\u0434\u043D\u044B\u0439 \u043A\u043B\u044E\u0447"
