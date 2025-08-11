@@ -21,4 +21,4 @@
 
 ### Лицензия
 
-[Здесь](LICENSE)
+[GNU GPL v.3](LICENSE.txt)
