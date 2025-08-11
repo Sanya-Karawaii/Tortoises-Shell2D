@@ -18,3 +18,7 @@
 -  Нажмите на кнопку ![image](https://sun9-52.userapi.com/s/v1/if2/IZU9CGRxp03JcVgsgluEH5BiQe2_Rm5B6uAD29yJ79nftlrixsmSi7F02ph2opKUY7dkJAZd6n5banvVhXsvtAEK.jpg?quality=95&as=32x10,48x16,72x24,108x35,113x37&from=bu&cs=113x0) и скопируйте ссылку на репозиторий.
 -  Создайте папку, в которую вы хотите загрузить репозиторий.
 -  Откройте в этой папке git, введите команду git clone, а после нее скопированную раннее ссылку на репозиторий.
+
+### Лицензия
+
+[Здесь](LICENSE)
